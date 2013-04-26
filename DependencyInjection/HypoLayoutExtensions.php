@@ -29,7 +29,7 @@ class HypoExtensions extends Extension
 		
 		$config['layout']['templates'] = $templates;*/
 			
-		$container->setParameter('hypo.layout.configuration', $config['layout']);
+		$container->setParameter('hypo.layout.configuration', $config);
 	}
 	public function getAlias(){
 		return 'hypo.layout';
