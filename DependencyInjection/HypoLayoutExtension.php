@@ -5,7 +5,7 @@ namespace Hypo\LayoutBundle\DependencyInjection;
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
-class HypoLayoutExtensions extends Extension {
+class HypoLayoutExtension extends Extension {
 
 	/**
 	 * {@inheritDoc}
