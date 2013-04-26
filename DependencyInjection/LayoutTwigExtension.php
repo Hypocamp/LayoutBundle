@@ -18,7 +18,7 @@ class Twig_Filter_Method extends \Twig_Filter_Method{
     {
         $options = array_merge(array('needs_environment'=> false, 'needs_context'=> false, 'is_safe' => array('html')), $options);
         parent::__construct($extension, $method, $options);
-    }
+    } 
 }
 
 
