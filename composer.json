@@ -1,0 +1,27 @@
+{
+    "name": "hypo/layout",
+    "type": "symfony-bundle",
+    "description": "Symfony Layout Bundle",
+    "keywords": ["Layout management"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas de Marqué",
+            "email": "nicolas.demarque@gmail.com"
+        },
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": ">=2.1,<2.3-dev",
+    },
+    "autoload": {
+        "psr-0": { "Hypo\\LayoutBundle": "" }
+    },
+    "target-dir": "Hypo/LayoutBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x.x-dev"
+        }
+    }
+}
