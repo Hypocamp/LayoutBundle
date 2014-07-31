@@ -20,7 +20,7 @@
     "target-dir": "Hypo/LayoutBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.x"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
