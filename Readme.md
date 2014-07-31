@@ -18,7 +18,7 @@ Installation
 	new Hypo\LayoutBundle\HypoLayoutBundle(),
 ```
 
- - configure the bundle in config.yml (a default configuration can be find in GlobalBundle/Resources/config/defaultconfiguration.yml)
+ - configure the bundle in config.yml (a default configuration can be find in LayoutBundle/Resources/config/defaultconfiguration.yml)
 
 
 Use

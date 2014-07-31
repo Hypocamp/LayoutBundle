@@ -1,6 +1,6 @@
 <?php
 
-namespace Hypo\GlobalBundle\DependencyInjection;
+namespace Hypo\LayoutBundle\DependencyInjection;
 
 use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
